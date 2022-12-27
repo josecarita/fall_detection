@@ -18,7 +18,8 @@ The project consist in three parts:
  is a fall or not to send the notification by e-mail with `smtplib`.
  
  ### The Sensor Reading Part
- This second part consist in take the data of the sensors, that was made using the respective libraries for these sensors.
+ This second part consist in take the data of the sensors from an Arduino (with the program previously loaded) to the Raspberry Pi.
+ This was made using serial communication (UART).
  
  ### The Streaming and Data Visualization
  Now comes the IoT part, for this I used `remoteit.io` to host the streaming and data visualization made it with Flask and HTML.
