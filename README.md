@@ -21,6 +21,6 @@ The project consist in three parts:
  This second part consist in take the data of the sensors, that was made using the respective libraries for these sensors.
  
  ### The Streaming and Data Visualization
- Now comes the IoT part, for this I used `remoteit.io` to host the streaming and data visualization made it with Flask and using JavaScript.
+ Now comes the IoT part, for this I used `remoteit.io` to host the streaming and data visualization made it with Flask and HTML.
  
  
